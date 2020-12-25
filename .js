@@ -1,10 +1,5 @@
-fetch("https://omgvamp-hearthstone-v1.p.rapidapi.com/cards", {
-	"method": "GET",
-	"headers": {
-		"x-rapidapi-key": "7f3858e219msh928ae11832ce33dp1e8daejsn8d6dafdb99b3",
-		"x-rapidapi-host": "omgvamp-hearthstone-v1.p.rapidapi.com"
-	}
-})
+fetch("https://us.api.blizzard.com/hearthstone/cards?locale=en_US&access_token=USeF28PwwtmKTHiUNGJjr8ONG99Vo32Bu3")
+	
 .then(response => {
 	console.log(response);
 })
