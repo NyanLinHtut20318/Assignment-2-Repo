@@ -1,7 +1,7 @@
 const searchBox = document.querySelector(".searchBox");
 const inputBox = searchBox.querySelector("input");
 function fetchData() {
-	fetch("https://us.api.blizzard.com/hearthstone/cards?locale=en_US&access_token=USUrcY5UsNtLfJWQSRgM8mIu8zhTwmnXSl")
+	fetch("https://us.api.blizzard.com/hearthstone/cards?locale=en_US&access_token=US4EKWTSdd3HmbGEsUATsxY2pZVO5JDkuE")
 	.then((response) => {
 		console.log(response);
 		if (!response.ok) {
