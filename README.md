@@ -1,4 +1,7 @@
 # Assignment-2-Repo
+1, I wanted to make a card search api
+2, I design my website to have simial aesthetic to the game
+3, I used bootstap and fontawesome templatesfor my search icon and radio buttons respectively 
 # Links used
 https://twitter.com/regiskillbin/status/1306686349429428225
 (for the background image for the website)
