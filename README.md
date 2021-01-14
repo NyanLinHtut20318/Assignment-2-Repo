@@ -1,4 +1,6 @@
 # Assignment-2-Repo
+1, this website is for searching or cards in the game hearthstone
+users can use this website to search for cards in hearthstone 
 # Design rational 
 1, I wanted to make a card search api
 2, I design my website to have simial aesthetic to the game
