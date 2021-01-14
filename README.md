@@ -15,3 +15,7 @@ https://getbootstrap.com/docs/5.0/components/button-group/#checkbox-and-radio-bu
 
 # API used
 https://us.api.blizzard.com/hearthstone/cards?locale=en_US&access_token=USY2d8C6tfHm9orEFsKXH7i6LU9g51uG5y
+
+# github link
+https://nyanlinhtut20318.github.io/Assignment-2-Repo/
+ 
